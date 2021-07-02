@@ -1,3 +1,4 @@
-* Arco de libertad
+* Textos
 
-  https://leo-ar.github.io/arco-de-libertad/
+- https://leo-ar.github.io/textos/arco-de-libertad.html
+- https://leo-ar.github.io/textos/elementos.html
