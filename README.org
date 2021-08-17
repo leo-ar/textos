@@ -1,5 +1,8 @@
-* Textos
+* Textos y Pinturas
 
 - https://leo-ar.github.io/textos/arco-de-libertad.html
+- https://leo-ar.github.io/textos/higuera-seca.png
 - https://leo-ar.github.io/textos/elementos.html
+- https://leo-ar.github.io/textos/pensar.png
+- https://leo-ar.github.io/textos/ego-y-egoismo.png
 - https://leo-ar.github.io/textos/encuentro.html
